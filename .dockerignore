@@ -1,0 +1,6 @@
+Dockerfile
+.dockerignore
+server.ps1
+.git
+.gitignore
+*.md
